@@ -8,6 +8,13 @@ SKILLS
 
 <picture>
   <img src="https://josuegamonal.com/images/iconos-color/html-5-svgrepo-com.svg">
+  <img src="https://josuegamonal.com/images/iconos-color/html-5-svgrepo-com.svg">
+  <img src="https://josuegamonal.com/images/iconos-color/html-5-svgrepo-com.svg">
+  <img src="https://josuegamonal.com/images/iconos-color/html-5-svgrepo-com.svg">
+  <img src="https://josuegamonal.com/images/iconos-color/html-5-svgrepo-com.svg">
+  <img src="https://josuegamonal.com/images/iconos-color/html-5-svgrepo-com.svg">
+  <img src="https://josuegamonal.com/images/iconos-color/html-5-svgrepo-com.svg">
+  <img src="https://josuegamonal.com/images/iconos-color/html-5-svgrepo-com.svg">
 </picture>
 
 <!--
